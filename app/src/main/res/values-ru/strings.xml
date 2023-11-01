@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Замер клея</string>
+    <string name="enter_part_length">Введите длинну детали</string>
+    <string name="lenght">ДЛИННА</string>
+    <string name="result">РЕЗУЛЬТАТ</string>
+    <string name="quot_c_quot">ПЛОЩАДЬ ОБРАЗСЦА</string>
+    <string name="result_info">РЕЗУЛЬТАТ\n\</string>
+    <string name="input_a">ВВЕДИТЕ ШИРИНУ \"a\"</string>
+    <string name="input_b">ВВЕДИТЕ ДЛИННУ \"b\"</string>
+    <string name="no_value_entered">НЕ ВВЕДЕНО ЗНАЧЕНИЕ</string>
+    <string name="further">ДАЛЬШЕ</string>
+
+
+</resources>

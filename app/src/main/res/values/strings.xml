@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Glue measurement</string>
+
+    <string name="enter_part_length">Enter part length</string>
+    <string name="lenght">LENGTH</string>
+    <string name="result">Result</string>
+    <string name="input_a">Input \"a\"</string>
+    <string name="input_b">input \"b\"</string>
+    <string name="quot_c_quot">Sample area</string>
+    <string name="result_info">Result\n</string>
+
+    <string name="no_value_entered">No value entered</string>
+    <string name="further">further</string>
+
+
+</resources>

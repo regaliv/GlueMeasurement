@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Līmes mērīšana</string>
+    <string name="enter_part_length">Ievadiet daļas garumu</string>
+    <string name="lenght">GARUMS</string>
+    <string name="result">REZULTĀTS\n</string>
+    <string name="quot_c_quot">PARAUGA APGABĀLS</string>
+    <string name="result_info">REZULTĀTS\n\</string>
+    <string name="input_a">IEVADIET PLATUMU \'\'a\"</string>
+    <string name="input_b">IEVADIET GARUMU \'\'b\"</string>
+    <string name="no_value_entered">NAV IEVADĪTA VĒRTĪBA</string>
+    <string name="further">TĀLĀK</string>
+
+</resources>
